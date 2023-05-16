@@ -45,4 +45,5 @@ do
 done;
 
 sleep 3
+curl https://raw.githubusercontent.com/N0X0V/cgl-1/main/hack.txt > hack.txt
 open ./hack.txt
